@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezhiming1995.github.io</id>
     <title>志明丶</title>
-    <updated>2020-08-18T03:25:40.279Z</updated>
+    <updated>2020-11-23T15:44:18.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hezhiming1995.github.io"/>
     <link rel="self" href="https://hezhiming1995.github.io/atom.xml"/>
@@ -15,11 +15,18 @@ Time always &lt;br&gt;
     <icon>https://hezhiming1995.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 志明丶</rights>
     <entry>
+        <title type="html"><![CDATA[字节校招笔试(08-09) 算法题回溯与感想(下)]]></title>
+        <id>https://hezhiming1995.github.io/post/zi-jie-xiao-zhao-bi-shi-08-09-suan-fa-ti-hui-su-yu-gan-xiang-xia/</id>
+        <link href="https://hezhiming1995.github.io/post/zi-jie-xiao-zhao-bi-shi-08-09-suan-fa-ti-hui-su-yu-gan-xiang-xia/">
+        </link>
+        <updated>2020-08-14T07:28:11.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[字节校招笔试(08-09) 算法题回溯与感想(上)]]></title>
         <id>https://hezhiming1995.github.io/post/字节校招笔试(08-09)-算法题回溯与感想(上)/</id>
         <link href="https://hezhiming1995.github.io/post/字节校招笔试(08-09)-算法题回溯与感想(上)/">
         </link>
-        <updated>2020-08-11T07:43:25.000Z</updated>
+        <updated>2020-08-11T09:43:25.000Z</updated>
         <summary type="html"><![CDATA[<p><strong>——记录一下四道字节算法题，并解决它们！谨以为耻！</strong></p>
 <h2 id="前言">前言</h2>
 <p>字节跳动算法笔试(2020年8月9日)记录</p>

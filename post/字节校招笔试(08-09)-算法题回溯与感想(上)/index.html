@@ -8,7 +8,7 @@
 &nbsp;&nbsp;好的坏的都是风景。<br>
 Time always <br>
 &nbsp;&nbsp;catches us off guard." />
-<link rel="shortcut icon" href="https://hezhiming1995.github.io/favicon.ico?v=1597721135780">
+<link rel="shortcut icon" href="https://hezhiming1995.github.io/favicon.ico?v=1606146112823">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
@@ -36,7 +36,7 @@ Time always <br>
       <div class="flex lg:block p-4 lg:px-0 items-center fixed lg:static lg:block top-0 right-0 left-0 bg-white z-50">
         <i class="ri-menu-2-line lg:mt-4 text-2xl cursor-pointer animated fadeIn" onclick="openMenu()"></i>
         <a href="https://hezhiming1995.github.io">
-          <img class="animated fadeInLeft avatar rounded-lg mx-4 lg:mt-32 lg:mx-0 mt-0 lg:w-24 lg:h-24 w-12 w-12" src="https://hezhiming1995.github.io/images/avatar.png?v=1597721135780" alt="">
+          <img class="animated fadeInLeft avatar rounded-lg mx-4 lg:mt-32 lg:mx-0 mt-0 lg:w-24 lg:h-24 w-12 w-12" src="https://hezhiming1995.github.io/images/avatar.png?v=1606146112823" alt="">
         </a>
         <h1 class="animated fadeInLeft lg:text-4xl font-extrabold lg:mt-8 mt-0 text-xl" style="animation-delay: 0.2s">志明丶</h1>
       </div>
@@ -98,7 +98,7 @@ Time always <br>
       
     
       
-        <a href="/post/about" class="menu" style="animation-delay: 0.6000000000000001s">
+        <a href="https://hezhiming1995.github.io/post/aboutme" class="menu" style="animation-delay: 0.6000000000000001s">
           关于
         </a>
       
@@ -190,11 +190,11 @@ for i in range(26):
             faultTolerant += 1
         #如果容错大于了输入给定的最大容错m，这个时候没办法了，就只能动左指针了（右移）
         while faultTolerant &gt; m:
-            # 存在着一种情况，左指针目前匹配的刚好是for循环指定的字母的ASCII码，此情况就不能减少容错
+            # 存在一种情况，左指针目前匹配的刚好是for循环指定字母的ASCII码，此情况就不能减少容错
             # 如果左指针当前匹配不是for指定的字母的ASCII码，那么右移左指针不就可以减少容错了吗？
             if ord(s[left]) != ord('a') + i:
                 faultTolerant -= 1
-            # 注意缩进，如果在if循环中，意味着只有当左指针不匹配ACSII码，左指针才+1，显然不符合逻辑
+            # 注意缩进，如果在if循环中，则表示仅当左指针不匹配ACSII码，左指针才+1，显然不符合逻辑
             left += 1
         # 注意缩进
         maxLength = max(maxLength, right-left+1)
@@ -332,6 +332,15 @@ print(max(max(m0),max(m1)))
 
 
         <div class="flex justify-between py-8">
+          
+            <div class="prev-post">
+              <a href="https://hezhiming1995.github.io/post/zi-jie-xiao-zhao-bi-shi-08-09-suan-fa-ti-hui-su-yu-gan-xiang-xia/">
+                <h3 class="post-title">
+                  <i class="ri-arrow-left-line"></i>
+                  字节校招笔试(08-09) 算法题回溯与感想(下)
+                </h3>
+              </a>
+            </div>
           
 
           
