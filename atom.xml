@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezhiming1995.github.io</id>
-    <title>志明丶</title>
-    <updated>2020-11-23T15:44:18.042Z</updated>
+    <title>☯ 志明♪</title>
+    <updated>2020-11-28T15:07:52.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hezhiming1995.github.io"/>
     <link rel="self" href="https://hezhiming1995.github.io/atom.xml"/>
@@ -13,7 +13,39 @@ Time always &lt;br&gt;
 &amp;nbsp;&amp;nbsp;catches us off guard.</subtitle>
     <logo>https://hezhiming1995.github.io/images/avatar.png</logo>
     <icon>https://hezhiming1995.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 志明丶</rights>
+    <rights>All rights reserved 2020, ☯ 志明♪</rights>
+    <entry>
+        <title type="html"><![CDATA[软件工程的认知与理解]]></title>
+        <id>https://hezhiming1995.github.io/post/ruan-jian-gong-cheng-de-ren-zhi-yu-li-jie/</id>
+        <link href="https://hezhiming1995.github.io/post/ruan-jian-gong-cheng-de-ren-zhi-yu-li-jie/">
+        </link>
+        <updated>2020-11-28T08:45:53.000Z</updated>
+        <summary type="html"><![CDATA[<p><br>
+<strong>前言：</strong></p>
+<blockquote>
+<p>在理解任何事物前，希望我可以养成一个对于这个事物提出<strong>3W1H</strong>（What？Why？Where？How？）的先行分析。再去高谈阔论云云~</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<p><br>
+<strong>前言：</strong></p>
+<blockquote>
+<p>在理解任何事物前，希望我可以养成一个对于这个事物提出<strong>3W1H</strong>（What？Why？Where？How？）的先行分析。再去高谈阔论云云~</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tableau学习笔记]]></title>
+        <id>https://hezhiming1995.github.io/post/tableau-xue-xi-bi-ji/</id>
+        <link href="https://hezhiming1995.github.io/post/tableau-xue-xi-bi-ji/">
+        </link>
+        <updated>2020-11-23T10:36:01.000Z</updated>
+        <summary type="html"><![CDATA[<p></p>
+<p>——<strong>Tableau Software</strong>致力于帮助人们查看并理解数据。Tableau 帮助任何人<strong>快速分析、可视化并分享信息</strong>。超过 42,000 家客户通过使用 Tableau 在办公室或随时随地快速获得结果。数以万计的用户使用 Tableau Public 在博客与网站中分享数据。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p></p>
+<p>——<strong>Tableau Software</strong>致力于帮助人们查看并理解数据。Tableau 帮助任何人<strong>快速分析、可视化并分享信息</strong>。超过 42,000 家客户通过使用 Tableau 在办公室或随时随地快速获得结果。数以万计的用户使用 Tableau Public 在博客与网站中分享数据。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[字节校招笔试(08-09) 算法题回溯与感想(下)]]></title>
         <id>https://hezhiming1995.github.io/post/zi-jie-xiao-zhao-bi-shi-08-09-suan-fa-ti-hui-su-yu-gan-xiang-xia/</id>
