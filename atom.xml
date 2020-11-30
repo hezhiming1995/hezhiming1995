@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezhiming1995.github.io</id>
     <title>☯ 志明♪</title>
-    <updated>2020-11-30T07:56:42.222Z</updated>
+    <updated>2020-11-30T16:35:52.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hezhiming1995.github.io"/>
     <link rel="self" href="https://hezhiming1995.github.io/atom.xml"/>
@@ -14,6 +14,25 @@ Time always &lt;br&gt;
     <logo>https://hezhiming1995.github.io/images/avatar.png</logo>
     <icon>https://hezhiming1995.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ☯ 志明♪</rights>
+    <entry>
+        <title type="html"><![CDATA[What is DX (Digital Transformation) ? 什么是数字化转型]]></title>
+        <id>https://hezhiming1995.github.io/post/what-is-dx-digital-transformation-shi-me-shi-shu-zi-hua-zhuan-xing/</id>
+        <link href="https://hezhiming1995.github.io/post/what-is-dx-digital-transformation-shi-me-shi-shu-zi-hua-zhuan-xing/">
+        </link>
+        <updated>2020-11-30T08:20:24.000Z</updated>
+        <summary type="html"><![CDATA[<p><br>
+<strong>前言：</strong></p>
+<blockquote>
+<p>什么是<strong>数字化转型</strong>？这可能是刚刚毕业，面向传统行业或非互联网公司求职的同学（包括我）所面对的一个云雾缠绕的概念吧。其次为什么互联网公司不谈数字化转型呢？</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<p><br>
+<strong>前言：</strong></p>
+<blockquote>
+<p>什么是<strong>数字化转型</strong>？这可能是刚刚毕业，面向传统行业或非互联网公司求职的同学（包括我）所面对的一个云雾缠绕的概念吧。其次为什么互联网公司不谈数字化转型呢？</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[软件工程的认知与理解]]></title>
         <id>https://hezhiming1995.github.io/post/ruan-jian-gong-cheng-de-ren-zhi-yu-li-jie/</id>
